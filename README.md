@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋  
-My name is Marvin Fabricante and I'm a Full Stack Developer<img src="https://media.giphy.com/media/jsHVvDpDMCwbyLuYM0/giphy.gif" width="50">
+My name is Marvin Fabricante and I'm a Computer Science student<img src="https://media.giphy.com/media/jsHVvDpDMCwbyLuYM0/giphy.gif" width="50">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarvinFabricante)  
 
