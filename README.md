@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 <h2 align="center">Marvin Fabricante</h2>
 
 
-<p align="center">I'm an aspiring IT Professional with hands-on experience delivering real-world solutions in Linux System Administration, Software Development, and DevOps.</p>
+<p align="center">I'm an aspiring IT Professional specializing in DevOps, Cloud Infrastructure Automation, CI/CD pipelines, and modern deployment workflows.</p>
 
 ###
 
-<p align="center">I build and manage scalable, production-ready systems with a focus on Linux administration, DevOps, and software development, applying proven practices and principles to ensure efficiency, modularity, and maintainability.</p>
+<p align="center">I build and scale reliable, production-ready systems with a focus on containerization and site reliability, applying robust automation principles to ensure seamless delivery and maintainability.</p>
 
 ###
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,docker,kubernetes,terraform,aws,postgres,python,go" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,jenkins,git,docker,kubernetes,terraform,aws,postgres,python,go" height="40" />
   <br />
   <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,typescript,nestjs,fastapi,flask,react,redux" height="40" />
 </div>
